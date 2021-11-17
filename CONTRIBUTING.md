@@ -16,7 +16,7 @@ to them very soon! More below.
 Tally is currently being built by a core team in collaboration with a community
 on the [Tally Community Discord server](https://chat.tally.cash). **Discord is
 the right place to start discussions on new features and bugs.** The community
-on Discord, led by a few designated folks will help to funnel these into
+on Discord, led by a few designated folks, who will help to funnel these into
 well-organized GitHub issues for features and bugs, as well as organize folks
 to tackle any issues they’re interested in. For the time being, the core team
 will be charged with reviewing, critiquing, and ultimately merging new work.
@@ -44,7 +44,7 @@ in Discord before going all in.
    you are intending to do—there could be a duplicate issue, or someone else
    could already be working on it!
 5. Build!
-6. Open a PR against the main branch and describe the change you the PR has
+6. Open a PR against the main branch and describe the change the PR has
    implemented. You may break out a larger piece of work over several PRs (in
    fact, we encourage it!). In your PR description, make sure to mark that your
    PR closes the associated issue from step 4.
